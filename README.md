@@ -22,7 +22,6 @@ The project focuses on understanding the dataset, preparing meaningful features,
 - Apply feature encoding and feature scaling.
 - Train and compare multiple classification algorithms.
 - Evaluate model performance using different metrics.
-- Explore feature engineering and cross-validation.
 - Understand how machine learning supports data-driven predictions.
 
 ## 🛠️ Technologies & Libraries
@@ -105,7 +104,6 @@ Scikit-learn tools were used to organize preprocessing and model training:
 - `StandardScaler`
 - `OneHotEncoder`
 - `train_test_split`
-- `cross_val_score`
 
 This approach helps keep preprocessing consistent between training and testing data and reduces data leakage.
 
@@ -190,7 +188,6 @@ Through this project, I gained practical experience in:
 - Training and comparing classification algorithms.
 - Understanding evaluation metrics beyond accuracy.
 - Applying feature engineering to improve model representation.
-- Using cross-validation to examine model consistency.
 - Understanding the importance of avoiding data leakage.
 
 Most importantly, this project helped me understand that building a machine learning model is not just about fitting an algorithm. It involves understanding the data, selecting appropriate preprocessing techniques, validating results, and interpreting model performance.
